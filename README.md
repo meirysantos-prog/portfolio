@@ -1,14 +1,14 @@
 # portfolio - Meiry Ariel
 
-Olá!Sou estudante de desenvolvimento Front-end com foco em ReactJS.
+Olá!Sou estudante de desenvolvimento Front-end.
 Este repositório reúne meus primeiros projetos, estudos e evolução na área.
 
 # Estudando:
 
 - HTML
-- CSS
-- JavaScript
-- ReactJS
+- Lógica de Programação
+- Python(Tkinter).
+- Noções de Frond-end
 
 # Objetivo
 
